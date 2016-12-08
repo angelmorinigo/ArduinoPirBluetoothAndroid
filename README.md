@@ -1,5 +1,5 @@
 # ArduinoPirBluetoothAndroid
-* Controla lamparas de una habitación.
+* Control de lamparas de una habitación.
 * Monitoreo  de movimientos en tiempo real.
 
 
